@@ -1,4 +1,4 @@
-# **FocusWork**
+# **Focus Word**
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_D166E634E7B7A9E609B9426AC107EE32E4BB78FEBA1CBBB666B0041B0EAB0451_1524411209335_bullseye+2.png)  It is a simple Library which will help to create a simple focus work among EditText.
 
